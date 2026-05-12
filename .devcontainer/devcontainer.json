@@ -23,7 +23,7 @@
       "onAutoForward": "silent"
     }
   },
-  "forwardPorts": [8443],
+  "forwardPorts": [443],
   "hostRequirements": {
     "cpus": 2
   }
